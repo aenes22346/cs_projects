@@ -1,0 +1,9 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\cs432_server\cs432_server\bin\Debug\cs432_server.exe.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\cs432_server\cs432_server\bin\Debug\cs432_server.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\cs432_server\cs432_server\bin\Debug\cs432_server.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\cs432_server\cs432_server\obj\Debug\cs432_server.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\cs432_server\cs432_server\obj\Debug\cs432_server.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\cs432_server\cs432_server\obj\Debug\cs432_server.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\cs432_server\cs432_server\obj\Debug\cs432_server.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\cs432_server\cs432_server\obj\Debug\cs432_server.exe
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\cs432_server\cs432_server\obj\Debug\cs432_server.pdb
