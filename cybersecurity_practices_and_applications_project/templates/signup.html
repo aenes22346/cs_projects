@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body id="reg" class="body1">
+
+      <center>
+        
+          <h1 class="title"> 437 PROJECT WEBSITE </h1>
+          <h1 class="title"> REGISTER </h1>
+      
+          <form action="/signup" method="post">
+              
+              <input type="name" placeholder="Enter Username" name="username">
+              <br> <br>
+              <input type="name" placeholder="Enter Name"  name="name">
+              <br> <br>
+              <input type="name" placeholder="Enter Surname"  name="surname">
+              <br> <br> 
+              <input type="password" placeholder="Enter Password"  name="password" required>
+              <br> <br>
+              <button class="submit">Submit</button>
+              <p>Already have an account? <a href="./">Login here</a></p>
+              <td class = "tdstyle">{{message}}</td>
+              
+          </form>
+
+      </center>   
+</body>
+</html>
+
+<style>
+
+input[type=password] {
+  width: 15%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+input[type=password]:focus {
+  border: 3px solid rgb(86, 35, 226);
+}
+
+input[type=email] {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #ccc;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+input[type=email]:focus {
+  border: 3px solid rgb(38, 65, 216);
+}
+
+
+.submit:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.submit {
+    padding: 16px 50px;
+    background-color: green;
+    color: beige;
+    width: 15%;
+    
+}
+
+.body {
+    margin: 2% red ;
+    background-color: white;
+
+}
+
+.title {
+
+
+    color: red;
+    
+
+}
+
+
+
+</style>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body id="reg" class="body1">
+
+
+    <script src="https://unpkg.com/htmx.org@1.8.4" integrity="sha384-wg5Y/JwF7VxGk4zLsJEcAojRtlVp1FKKdGy1qN+OMtdq72WRvX/EdRdqg/LOhYeV" crossorigin="anonymous"></script>
+
+      <center>
+        
+        <h1> WELCOME </h1>
+
+        <h1>{{result}}</h1>
+
+        <form>
+          <button class="submit" hx-get="/api/v2/customer/profile" hx-target="#some-info" hx-push-url="true"> For seeing your profile information click here </button>
+        </form>
+
+
+        <div id = "some-info">
+      </div>
+
+      </center>   
+</body>
+</html>
+
+
+
+<style>
+
+
+.submit:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.submit {
+    padding: 16px 50px;
+    background-color: green;
+    color: beige;
+    width: 15%;
+    
+}
+
+
+
+</style>
