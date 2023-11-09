@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\cs408project_client\cs408project_client\bin\Debug\cs408project_client.exe.config
+C:\Users\ASUS\documents\visual studio 2015\Projects\cs408project_client\cs408project_client\bin\Debug\cs408project_client.exe
+C:\Users\ASUS\documents\visual studio 2015\Projects\cs408project_client\cs408project_client\bin\Debug\cs408project_client.pdb
+C:\Users\ASUS\documents\visual studio 2015\Projects\cs408project_client\cs408project_client\obj\Debug\cs408project_client.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2015\Projects\cs408project_client\cs408project_client\obj\Debug\cs408project_client.Form1.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\cs408project_client\cs408project_client\obj\Debug\cs408project_client.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2015\Projects\cs408project_client\cs408project_client\obj\Debug\cs408project_client.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2015\Projects\cs408project_client\cs408project_client\obj\Debug\cs408project_client.exe
+C:\Users\ASUS\documents\visual studio 2015\Projects\cs408project_client\cs408project_client\obj\Debug\cs408project_client.pdb
